@@ -7,7 +7,7 @@
   
   <img src="https://github.com/abdelrahmaan/abdelrahmaan/blob/master/profile-img_1.png" align="right" width="25%"/>
 
-Experience with Machine and Deep Learning along with Data Science and Natural Language Processing.
+Experience with the ML/AI field and LLMs.
 
 <!-- - 🔭 I'm a software developer [@ZadGroup](https://zadgroup.net/) in Cairo, Egypt -->
 
