@@ -36,7 +36,7 @@
 
 ### 🚀 Featured Project
 
-#### 🟢 Hadathana — Hadith Knowledge Graph & AI Explorer  
+#### 🟢 Hadathana.ai — Hadith Knowledge Graph & AI Explorer with smart Chatbot
 🔗 https://hadathana.app
 
 - Built a production AI platform for exploring hadith chains and narrators  
